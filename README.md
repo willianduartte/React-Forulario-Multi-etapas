@@ -1,13 +1,13 @@
-# Formolario Multi Etapas
+# Formolário Multi Etapas
 
-<h4 align='center'>Uma galeria de fotos onde você pode postar suas fotos e deixá-las à mostra para outras pessoas verem, feito durante o curso de React da <a href="https://b7web.com.br/fullstack/?ref=I24108426I&gclid=CjwKCAjw7cGUBhA9EiwArBAvog9V2u1XVk1CgL7W_bHZl67ys9p6bTy_bw-kusqWhM6TWdrs7HrMuBoCVkkQAvD_BwE" target="_blank" >B7web</a></h4>
+<h4 align='center'>Formulário super simples apenas para melhorar meus conhecimentos em react router e contextAPI, feito durante o curso de React da <a href="https://b7web.com.br/fullstack/?ref=I24108426I&gclid=CjwKCAjw7cGUBhA9EiwArBAvog9V2u1XVk1CgL7W_bHZl67ys9p6bTy_bw-kusqWhM6TWdrs7HrMuBoCVkkQAvD_BwE" target="_blank" >B7web</a></h4>
 
 <p align='center'>
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#como-usar">Como usar</a>
 </p>
 
-<img src="./Galeria de Fotos.gif">
+<img src="">
 
 <h1 align='center'>
     <a href="https://react-projeto-galeria-de-fotos.vercel.app/s">Clique aqui para Testar o app</a>
@@ -21,7 +21,8 @@ As seguintes tecnologias foram usadas:
 - Typescript
 - HTML5
 - Styled Components (CSS)
-- Firebase
+- React router
+- ContextAPI
 
 # Como usar
 
@@ -29,7 +30,7 @@ Para clonar e rodar essa aplicação você precisa ter o [Git](https://git-scm.c
 
 ```bash
 # Clonar o repositorio
-$ git Clone https://github.com/willianduartte/React-Projeto-Galeria-De-Fotos
+$ git Clone https://github.com/willianduartte/React-Forulario-Multi-etapas
 
 # com o repositorio selecionado no seu CDM rode
 $ npm install
