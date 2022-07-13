@@ -1,4 +1,4 @@
-# Formolário Multi Etapas
+# Formulário Multi Etapas
 
 <h4 align='center'>Formulário super simples apenas para melhorar meus conhecimentos em react router e contextAPI, feito durante o curso de React da <a href="https://b7web.com.br/fullstack/?ref=I24108426I&gclid=CjwKCAjw7cGUBhA9EiwArBAvog9V2u1XVk1CgL7W_bHZl67ys9p6bTy_bw-kusqWhM6TWdrs7HrMuBoCVkkQAvD_BwE" target="_blank" >B7web</a></h4>
 
@@ -7,7 +7,7 @@
     <a href="#como-usar">Como usar</a>
 </p>
 
-<img src="">
+<img src="./formulário multi etapas.png">
 
 <h1 align='center'>
     <a href="https://react-forulario-multi-etapas.vercel.app/">Clique aqui para Testar o app</a>
